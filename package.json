@@ -1,0 +1,20 @@
+{
+  "name": "easykeys",
+  "displayName": "easykeys",
+  "description": "simple keys for navigation",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Keymaps"
+  ],
+  "contributes": {
+    "keybindings": [
+      {
+        "key": "ctrl+.",
+        "command": "workbench.action.showCommands"
+      }
+    ]
+  }
+}
