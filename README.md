@@ -2,15 +2,19 @@
 
 ## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A very simple intuitive hotkey pack to help with keyboard navigation.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+alt e: Row up
+alt d: Row down
 
-## For more information
+alt s: Left by one word
+alt f: Right by one word
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+alt w: Start of line
+alt r: End of line
 
-**Enjoy!**
+alt x: Left by one char
+alt v: Right by one char
+
+alt 3: Top of page
+alt c: Bottom of page

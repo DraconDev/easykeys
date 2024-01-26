@@ -17,14 +17,54 @@
     "contributes": {
         "keybindings": [
             {
-                "key": "alt+j",
-                "title": "Cursor Up",
+                "key": "alt+e",
+                "title": "cursorUp",
                 "command": "cursorUp"
             },
             {
-                "key": "alt+i",
-                "title": "Cursor Down",
+                "key": "alt+d",
+                "title": "cursorDown",
                 "command": "cursorDown"
+            },
+            {
+                "key": "alt+f",
+                "title": "cursorWordRight",
+                "command": "cursorWordRight"
+            },
+            {
+                "key": "alt+s",
+                "title": "cursorWordLeft",
+                "command": "cursorWordLeft"
+            },
+            {
+                "key": "alt+r",
+                "title": "cursorEnd",
+                "command": "cursorEnd"
+            },
+            {
+                "key": "alt+w",
+                "title": "cursorHome",
+                "command": "cursorHome"
+            },
+            {
+                "key": "alt+x",
+                "title": "cursorLeft",
+                "command": "cursorLeft"
+            },
+            {
+                "key": "alt+v",
+                "title": "cursorRight",
+                "command": "cursorRight"
+            },
+            {
+                "key": "alt+3",
+                "title": "cursorTop",
+                "command": "cursorTop"
+            },
+            {
+                "key": "alt+c",
+                "title": "cursorBottom",
+                "command": "cursorBottom"
             }
         ]
     }
