@@ -4,17 +4,17 @@
 
 A very simple intuitive hotkey pack to help with keyboard navigation.
 
--alt e: Row up
--alt d: Row down
+-alt w: Row up
+-alt s: Row down
 
--alt s: Left by one word
--alt f: Right by one word
+-alt a: Left by one word
+-alt d: Right by one word
 
--alt w: Start of line
--alt r: End of line
+-alt q: Start of line
+-alt e: End of line
 
--alt x: Left by one char
--alt v: Right by one char
+-alt z: Left by one char
+-alt c: Right by one char
 
--alt 3: Top of page
--alt c: Bottom of page
+-alt 2: Top of page
+-alt x: Bottom of page
