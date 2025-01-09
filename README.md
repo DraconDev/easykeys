@@ -1,6 +1,4 @@
-# easykeys README
-
-## Working with Markdown
+# Easykeys
 
 A very simple intuitive hotkey pack to help with keyboard navigation.
 
