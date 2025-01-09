@@ -2,12 +2,12 @@
     "name": "easykeys",
     "displayName": "easykeys",
     "description": "simple keys for navigation",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.85.0"
     },
-    "publisher": "devdrac",
+    "publisher": "Dracon",
     "categories": [
         "Keymaps"
     ],
@@ -18,52 +18,52 @@
     "contributes": {
         "keybindings": [
             {
-                "key": "alt+e",
+                "key": "alt+w",
                 "title": "cursorUp",
                 "command": "cursorUp"
             },
             {
-                "key": "alt+d",
+                "key": "alt+s",
                 "title": "cursorDown",
                 "command": "cursorDown"
             },
             {
-                "key": "alt+f",
+                "key": "alt+d",
                 "title": "cursorWordRight",
                 "command": "cursorWordRight"
             },
             {
-                "key": "alt+s",
+                "key": "alt+a",
                 "title": "cursorWordLeft",
                 "command": "cursorWordLeft"
             },
             {
-                "key": "alt+r",
+                "key": "alt+e",
                 "title": "cursorEnd",
                 "command": "cursorEnd"
             },
             {
-                "key": "alt+w",
+                "key": "alt+q",
                 "title": "cursorHome",
                 "command": "cursorHome"
             },
             {
-                "key": "alt+x",
+                "key": "alt+z",
                 "title": "cursorLeft",
                 "command": "cursorLeft"
             },
             {
-                "key": "alt+v",
+                "key": "alt+c",
                 "title": "cursorRight",
                 "command": "cursorRight"
             },
             {
-                "key": "alt+3",
+                "key": "alt+2",
                 "title": "cursorTop",
                 "command": "cursorTop"
             },
             {
-                "key": "alt+c",
+                "key": "alt+x",
                 "title": "cursorBottom",
                 "command": "cursorBottom"
             }
