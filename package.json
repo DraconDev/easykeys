@@ -2,7 +2,7 @@
     "name": "easykeys",
     "displayName": "easykeys",
     "description": "simple keys for navigation",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.85.0"
